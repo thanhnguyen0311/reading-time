@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+    padding: 0;
+}
+.sidebar-content {
+    padding: 80px;
+}
+
+.sidebar-item {
+    color: white;
+    font-size: 2rem;
+  padding-top: 40px;
+}
